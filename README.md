@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ted</h1>
-<h3 align="center">A passionate frontend developer from California.</h3>
+<h3 align="center">A passionate full-stack developer from California.</h3>
 
 - 👨‍💻 All of my projects are available at [hwangted.com](https://hwangted.com)
 
